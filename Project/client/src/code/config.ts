@@ -1,4 +1,4 @@
 export const config: { serverAddress: string} =
 {
-  serverAddress : "",
+  serverAddress : "http://" + `${window.location.hostname}` + ":8080",
 };
