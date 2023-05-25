@@ -107,7 +107,7 @@ class LoginView extends React.Component<MyProps, MyState> {
               />
             </Form.Group>
             <Form.Group className="float-center" onChange={this.rememberMe}>
-              <Form.Check type="checkbox" label="ALOOOMe" />
+              <Form.Check type="checkbox" label="Remember Me" />
             </Form.Group>
             <div className="col-md-23 text-center">
               <Button
