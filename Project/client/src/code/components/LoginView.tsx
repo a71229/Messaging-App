@@ -112,7 +112,7 @@ class LoginView extends React.Component<MyProps, MyState> {
             <div className="col-md-23 text-center">
               <Button
                 // className="float-center"
-                variant="Primary"
+                variant="danger"
                 onClick={this.validateLogin}
               >
                 Submit
