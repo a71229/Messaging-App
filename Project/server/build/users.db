@@ -1,0 +1,3 @@
+{"_id":"aaa","encryptedPassword":"202cb962ac59075b964b07152d234b70"}
+{"_id":"ola","encryptedPassword":"202cb962ac59075b964b07152d234b70","contacts":["aaa"]}
+{"_id":"aaa","encryptedPassword":"202cb962ac59075b964b07152d234b70","contacts":["ola"]}
